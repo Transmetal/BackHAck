@@ -18,17 +18,3 @@ backdoor linux &amp; windows
 * python3 backhack.py
 
 <h3> BAckHAck </h3>
-
-<img src="https://github.com/AngelSecurityTeam/BackHAck/blob/master/c1.png">
-
-<img src="https://github.com/AngelSecurityTeam/BackHAck/blob/master/c2.png">
-
-<h3> ******* </h3>
-
-<img src="https://github.com/AngelSecurityTeam/BackHAck/blob/master/d1.png">
-
-<img src="https://github.com/AngelSecurityTeam/BackHAck/blob/master/d2.png">
-
-<h3> Paypal Donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
