@@ -7,7 +7,7 @@ backdoor linux &amp; windows
 
 * apt-get install git 
 
-* git clone https://github.com/AngelSecurityTeam/BackHAck
+* git clone https://github.com/Transmetal/BackHAck
 
 * cd BackHAck
 
